@@ -1,54 +1,81 @@
 # Hi there, I'm Mohamed Qassem! 👋
 
-🚀 **Artificial Intelligence Engineer | Data Scientist | Machine Learning Engineer**  
-🔗 [LinkedIn](https://www.linkedin.com/in/mohamedd-qassem/)  
-📧 **Email:** mohamedqassem138@gmail.com  
-📞 **Phone:** +201020379130 / 01551259580 / 01003558707  
+### Cybersecurity Engineer | Penetration Tester | OSINT & Recon Researcher
+
+> “Understanding systems is the first step to securing them.” 🔐
 
 ---
 
-### 🧠 About Me
-I am an AI Engineer passionate about Machine Learning, Data Science, and Software Development. I thrive in solving complex problems and developing AI-driven solutions that make a difference. 
+## 🚀 About Me
 
-🔹 Strong software engineering background  
-🔹 Problem-solving mindset with analytical thinking  
-🔹 Good knowledge of relational databases & statistical analysis  
-🔹 Effective communicator 
+Cybersecurity enthusiast passionate about:
 
----
+* Penetration Testing
+* OSINT & Reconnaissance
+* Web Application Security
+* Network Security
+* Vulnerability Assessment
+* Security Research & Automation
 
-### 🛠 Technical Skills
-
-**Programming:** Python, Java, SQL, Git, OOP, HTML & CSS  
-**Data Science:** Machine Learning, Data Visualization, Statistical Analysis  
-**Tools:** Jupyter, Tableau, Microsoft Office Suite  
-**Adobe Suite:** Illustrator, Photoshop  
+Focused on building practical security solutions, discovering vulnerabilities, and understanding how modern systems and attacks work in real-world environments.
 
 ---
 
-### 💡 Soft Skills
-- Time Management ⏳  
-- Communication 🗣️  
-- Problem-solving 🧩  
-- Adaptability 🔄  
-- Leadership 🎯  
-- Teamwork 🤝  
+## ⚔️ Cybersecurity Skills
+
+### 🔐 Security & Pentesting
+
+* Web Penetration Testing
+* Vulnerability Assessment
+* OSINT & Reconnaissance
+* Network Scanning & Enumeration
+* OWASP Top 10
+* Digital Forensics Fundamentals
+
+### 🛠️ Security Tools
+
+* Wireshark
+* Nmap
+* Burp Suite
+* Metasploit
+* Nessus
+* Bettercap
+
+### 💻 Programming & Scripting
+
+* Python
+* Bash
+* PowerShell
+* SQL
+* JavaScript
+* Java
+* PHP
+
+### 🖥️ Platforms & Environments
+
+* Kali Linux
+* Ubuntu
+* Parrot OS
+* Windows Server
+* VMware
+* Docker
 
 ---
 
-### 🌍 Interests
-📖 Reading | 💻 Coding | ✈️ Travel | ♟️ Chess | 🏋️ Gym  
+## 📈 Certifications & Training
 
-🎓 **Volunteer Educator & Mentor at Noor Al-Shams (Charitable Association for the Visually Impaired)**
-
----
-
-### 🤝 Let's Connect!
-💼 [LinkedIn](https://www.linkedin.com/in/mohamedd-qassem/)  
-📧 mohamedqassem138@gmail.com  
-📞 +201020379130  
+* CompTIA Security+ (In Progress)
+* TryHackMe — Top 5%
+* Penetration Testing Training — DEPI
+* Fortinet Cybersecurity Training
+* Cybersecurity Internship — NTI
+* AI & Data Science Training — IBM & DEPI
 
 ---
 
-🎯 *“The best way to predict the future is to create it.” – Alan Kay*
+## 🌍 Connect With Me
 
+* LinkedIn:
+  linkedin.com/in/mohamedd-qassem
+
+# ☠️ Hack • Learn • Secure • Repeat
